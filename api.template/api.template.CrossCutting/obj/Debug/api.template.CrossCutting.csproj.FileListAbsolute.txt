@@ -1,0 +1,10 @@
+C:\Users\mps\Documents\Exemples\api.template\api.template\api.template.CrossCutting\bin\Debug\api.template.CrossCutting.dll
+C:\Users\mps\Documents\Exemples\api.template\api.template\api.template.CrossCutting\bin\Debug\api.template.CrossCutting.pdb
+C:\Users\mps\Documents\Exemples\api.template\api.template\api.template.CrossCutting\obj\Debug\api.template.CrossCutting.csprojResolveAssemblyReference.cache
+C:\Users\mps\Documents\Exemples\api.template\api.template\api.template.CrossCutting\obj\Debug\api.template.CrossCutting.dll
+C:\Users\mps\Documents\Exemples\api.template\api.template\api.template.CrossCutting\obj\Debug\api.template.CrossCutting.pdb
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.CrossCutting\bin\Debug\api.template.CrossCutting.dll
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.CrossCutting\bin\Debug\api.template.CrossCutting.pdb
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.CrossCutting\obj\Debug\api.template.CrossCutting.csprojResolveAssemblyReference.cache
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.CrossCutting\obj\Debug\api.template.CrossCutting.dll
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.CrossCutting\obj\Debug\api.template.CrossCutting.pdb

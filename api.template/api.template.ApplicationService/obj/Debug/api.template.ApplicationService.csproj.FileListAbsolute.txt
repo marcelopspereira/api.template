@@ -1,0 +1,15 @@
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\bin\Debug\api.template.ApplicationService.dll
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\bin\Debug\api.template.ApplicationService.pdb
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\bin\Debug\api.template.Domain.dll
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\bin\Debug\api.template.Infra.dll
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\bin\Debug\AutoMapper.dll
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\bin\Debug\DomainValidation.dll
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\bin\Debug\EntityFramework.dll
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\bin\Debug\api.template.Domain.pdb
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\bin\Debug\api.template.Infra.pdb
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\bin\Debug\AutoMapper.xml
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\bin\Debug\EntityFramework.xml
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\obj\Debug\api.template.ApplicationService.csprojResolveAssemblyReference.cache
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\obj\Debug\api.template.ApplicationService.dll
+C:\Users\heitor\Documents\GitHub\api.template\api.template\api.template.ApplicationService\obj\Debug\api.template.ApplicationService.pdb
